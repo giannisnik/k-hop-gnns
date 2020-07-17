@@ -1,5 +1,5 @@
 ## k-hop Graph Neural Networks
-Code for the paper [k-hop Graph Neural Networks](https://arxiv.org/pdf/1907.06051.pdf).
+Code for the paper [k-hop Graph Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302495?dgcid=rss_sd_all).
 
 ### Requirements
 Code is written in Python 3.6 and requires:
@@ -24,13 +24,15 @@ $ python main.py
 ### Cite
 Please cite our paper if you use this code:
 ```
-@article{nikolentzos2019k,
-  title={k-hop Graph Neural Networks},
+@article{nikolentzos2020k,
+  title={k-hop graph neural networks},
   author={Nikolentzos, Giannis and Dasoulas, George and Vazirgiannis, Michalis},
-  journal={arXiv preprint arXiv:1907.06051},
-  year={2019}
+  journal={Neural Networks},
+  volume={130},
+  pages={195--205},
+  year={2020},
+  publisher={Elsevier}
 }
-
 ```
 
 -----------
